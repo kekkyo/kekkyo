@@ -1,16 +1,20 @@
-## Hi there 👋
+# Keren Villanueva
 
-<!--
-**kekkyo/kekkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante del Instituto Tecnológico de Cuautla (TECNM)
 
-Here are some ideas to get you started:
+Actualmente enfocada en Inteligencia de Negocios y Ciencia de Datos, con
+interés en análisis de datos, SQL, Python, computación en la nube y
+ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este repositorio contiene proyectos, prácticas y material relacionado con mi
+formación académica y aprendizaje independiente.
+
+## Tecnologías
+
+SQL · Python · AWS · Linux 
+
+## Proyectos actuales
+
+- [AWS AI & ML Scholars](#) — Proyecto guiado realizado durante el programa.
+- [Análisis y Exploración de Datos](#) — Material y prácticas de la materia,
+  actualmente en desarrollo.
