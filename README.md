@@ -1,4 +1,4 @@
-# Keren Villanueva
+# Hola, soy Keren! 
 
 Estudiante del Instituto Tecnológico de Cuautla (TECNM)
 
@@ -15,6 +15,6 @@ SQL · Python · AWS · Linux
 
 ## Proyectos actuales
 
-- [AWS AI & ML Scholars](#) — Proyecto guiado realizado durante el programa.
-- [Análisis y Exploración de Datos](#) — Material y prácticas de la materia,
+- [Customer Support Chatbot](https://github.com/kekkyo/proyect-01-chatbot-bedrockflows) — Proyecto guiado realizado durante el programa.
+- [Análisis y Exploración de Datos](https://github.com/kekkyo/duckdb-practica) — Material y prácticas de la materia,
   actualmente en desarrollo.
